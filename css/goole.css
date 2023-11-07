@@ -1,0 +1,131 @@
+body {
+    background: rgb(31, 29, 29) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dots { 
+    height: 25px
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+.nav { 
+    float: right;
+
+}
+.dots {
+    margin-bottom: -5px;
+}
+.container {
+    padding-bottom: 60px;
+    margin: 10px;
+}
+h1 {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5em;
+    width: 30em;
+    background: rgb(31, 29, 29) ;
+    border-color: rgb(199, 183, 183);
+}
+
+.search {
+    background: rgb(73, 68, 68);
+    padding: 10px;
+}
+
+.lucky {
+    background: rgb(73, 68, 68);
+    padding: 10px;
+    margin-left: 5px;
+}
+
+span {
+    color: rgb(105, 105, 202);
+}
+
+.wlogo {
+    border-radius: 50px;
+    background: rgb(160, 22, 22);
+    padding: 5px;
+    color:red;
+}
+section {
+    text-align: center;
+    padding: 80px;
+    margin-top: 50px;
+    font-size: 18px;
+
+}
+.epl {
+    color: white
+}
+.first-footer {
+    color: white;
+    background: Black;
+    padding: 4px;
+}
+
+    
+.gold{
+    color: white;
+    text-align: center;
+    margin-top: -34px;
+}
+
+.white {
+    color: white;
+    text-align: right;
+    margin-top: -20px;
+}
+footer {
+    background: black;
+    padding: 4px;
+    margin-top: 2px;
+}
+
+.all-footer {
+    margin-top: 15em;
+    margin-bottom: -5em;
+}
+label{
+    
+}
+
+p {
+    margin-left: 1em;
+}
+.google-offered {
+    font-size: 14px;
+}
+
+.option{
+    margin-right: 1em;
+}
+
+.top {
+    padding: 10px
+}
+input {
+    color: white;
+    text-align: center;
+}
+.voice {
+    height: 20px;
+
+}
